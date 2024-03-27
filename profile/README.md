@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500px" height="500px" src="/profile/icon.png"/><br>
+  <img width="320px" height="320px" src="/profile/icon.png"/><br>
 </p>
 <h1>Who we are</h1>
 
