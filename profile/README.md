@@ -1,7 +1,7 @@
 <p align="center">
   <img width="320px" height="320px" src="/profile/icon.png"/><br>
+  <h1>Who we are</h1>
 </p>
-<h1>Who we are</h1>
 
 <!--
 
