@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="/profile/icon.png"/><br>
-  <h1>is minecraft bedrock server</h1>
+  <img width="500px" height="500px" src="/profile/icon.png"/><br>
 </p>
+<h1>Who we are</h1>
 
 <!--
 
