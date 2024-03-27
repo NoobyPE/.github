@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png"/><br>
+  <img src="/profile/icon.png"/><br>
   <h1>NoobyPE Network is minecraft bedrock server</h1>
 </p>
 
